@@ -1,4 +1,4 @@
-CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+# CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
 
 Copyright (C) 2025 Benedikt Wiesner
 
@@ -6,7 +6,7 @@ The person who associated a work with this document has dedicated the work to th
 
 You can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission.
 
-**Disclaimer:**
+**Disclaimer:**  
 In no event will the licensors be liable to you for any damages arising from your use of the work, even if they have been advised of the possibility of such damages.
 
 Unless expressly stated otherwise, the person who associated a work with this deed makes no warranties about the work, and disclaims liability for all uses of the work, to the fullest extent permitted by law.
@@ -16,3 +16,5 @@ Unless expressly stated otherwise, the person who associated a work with this de
 ## Learn More
 
 This work is published under the [Creative Commons CC0 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).
+
+![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)
