@@ -1,5 +1,11 @@
 # Benedikt Wiesner - Google Cyber Security Portfolio Notes & Resources
 
+## Certificate
+
+You can view my certificate [here](https://www.coursera.org/account/accomplishments/professional-cert/EHY3QUAFLZ4P)  
+
+---
+
 This repo contains my personal notes and key takeaways from the **Google Cybersecurity Professional Certificate**, completed via Coursera.
 
 The goal was to refresh my existing knowledge in cybersecurity concepts, tools, and job-ready skills. I’ve documented the major topics from each course, summarized key concepts, and included hands-on exercises where possible.
@@ -59,12 +65,6 @@ The certificate is structured across 8 courses covering the fundamentals of cybe
 
 ---
 
-## Certificate
-
-You can view my certificate [here](https://www.coursera.org/account/accomplishments/professional-cert/EHY3QUAFLZ4P)  
-
-
----
 
 **Disclaimer:** These are personal learning notes and not official course material from Google or Coursera.
 
